@@ -13,8 +13,8 @@ Mit diesen technischen Limitierungen sollte  man sich genau überlegen welche Ta
 
 ## Was soll im CP enthalten sein
 
-* Berliner Relais
-* wichtige Brandenburger Relais
+* alle DMR-Relais in BB
+* wichtige FM-Relais aus BB
 * DMR Anruf- und einige wenige Simplexfrequenzen
 * FM Anruf- und einige wenige Simplexfrequenzen
 
