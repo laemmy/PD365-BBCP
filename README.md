@@ -17,6 +17,11 @@ Mit diesen technischen Limitierungen sollte  man sich genau überlegen welche Ta
 * wichtige FM-Relais aus BB
 * DMR Anruf- und einige wenige Simplexfrequenzen
 * FM Anruf- und einige wenige Simplexfrequenzen
+* Frequenzen für Hotspots
+
+## Was nicht im CP enthalten sein wird
+
+* 
 
 ## Benötigte Software
 
@@ -29,3 +34,4 @@ Mit diesen technischen Limitierungen sollte  man sich genau überlegen welche Ta
 * Hytera PD365
 * Programmierkabel
 * Computer mit MS Windows ab Version 7
+
