@@ -8,6 +8,7 @@ Das PD365 bietet in der aktuellen Firmware Speichermöglichkeiten für
 * 64 Kontakte
 * 128 digitale Kanäle
 * 128 analoge Kanäle
+* kleines Display, wenig Platz für lange kontakt- und Kanalbezeichnungen
 
 Mit diesen technischen Limitierungen sollte  man sich genau überlegen welche Talkgroups, eingespeichert werden sollen.
 
