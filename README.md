@@ -18,3 +18,14 @@ Mit diesen technischen Limitierungen sollte  man sich genau überlegen welche Ta
 * DMR Anruf- und einige wenige Simplexfrequenzen
 * FM Anruf- und einige wenige Simplexfrequenzen
 
+## Benötigte Software
+
+* Hytera CPS für das PD365
+* OpenOffice
+* CPSProgrammer http://dl5mcc.de/cpsprogrammer/index.php
+
+## Benötigte Hardware
+
+* Hytera PD365
+* Programmierkabel
+* Computer mit MS Windows ab Version 7
