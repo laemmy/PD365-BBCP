@@ -22,7 +22,7 @@ Mit diesen technischen Limitierungen sollte  man sich genau überlegen welche Ta
 
 ## Was nicht im CP enthalten sein wird
 
-* 
+* DMR-IDs mit persönlichen Rufzeichen
 
 ## Benötigte Software
 
