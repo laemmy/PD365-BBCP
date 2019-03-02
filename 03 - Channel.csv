@@ -9,4 +9,11 @@
 888;8;d;DMR 07 430.6875;;430,6875;0;1;s1;;;;;;;;;;;;All Call;RX Berlin;;;H;DMO;None;
 888;9;d;TG263333;;430,375;0;1;s1;;;;;;;;;;;;Twitterrunde;Twitterrunde;;;H;None;None;
 888;10;d;Chaoswelle;;430,375;0;1;s1;;;;;;;;;;;;Chaoswelle;Hotspot;;;H;None;None;
-888;11;d;TG263333 2;;430,375;0;1;s1;;;;;;;;;;;;Twitterrunde;Twitterrunde;;;H;None;None;
+888;11;d;TG262;;430,375;0;1;s1;;;;;;;;;;;;DL;Hotspot;;;H;None;None;
+888;12;d;MultiMode DL;;431,375;0;1;s1;;;;;;;;;;;;MultiMode DL;Hotspot;;;H;None;None;
+888;13;d;TAC 1;;432,375;0;1;s1;;;;;;;;;;;;TAC 1;Hotspot;;;H;None;None;
+888;14;d;TAC 2;;433,375;0;1;s1;;;;;;;;;;;;TAC 2;Hotspot;;;H;None;None;
+888;15;d;TAC 3;;434,375;0;1;s1;;;;;;;;;;;;TAC 3;Hotspot;;;H;None;None;
+888;16;d;TAC 4;;434,375;0;1;s1;;;;;;;;;;;;TAC 4;Hotspot;;;H;None;None;
+888;17;d;DB0KK TS1 TG9;;439,5375;-7,6;1;s1;;;;;;;;;;;;TG9;TG9;;;H;None;None;
+888;18;d;DB0TU TS1 TG9;;439,575;-7,6;1;s1;;;;;;;;;;;;TG9;TG9;;;H;None;None;
